@@ -1,0 +1,16 @@
+pillow
+opencv-python
+pytesseract
+easyocr
+pdfplumber
+PyMuPDF
+transformers
+torch             # if using transformer models locally
+langchain
+chromadb
+pandas
+regex
+python-multipart  # if you expose API
+flask             # or fastapi
+uvicorn
+langgraph         # if you want LangGraph installed (optional)
